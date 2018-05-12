@@ -1,0 +1,38 @@
+_repo: Cours-familier-de-Litt-rature---Volume-02_45012
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45012-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Lamartine, Alphonse de
+    aliases:
+    - De Lamartine, Alphonse
+    - Lamartine, Alphonse Marie Louis de
+    - Lamartine de Prat, Alphonse-Marie-Louis de
+    birthdate: 1790
+    deathdate: 1869
+    gutenberg_agent_id: '4781'
+    url: http://www.gutenberg.org/2009/agents/4781
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Alphonse_de_Lamartine
+    - http://fr.wikipedia.org/wiki/Alphonse_de_Lamartine
+description: ''
+gutenberg_bookshelf:
+- France
+- FR Littérature
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45012'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'France -- Politics and government -- 1789-1900'
+- !lcsh 'French literature -- History and criticism'
+- !lcsh 'Literature -- History and criticism'
+title: Cours familier de Littérature - Volume 02
+url: http://www.gutenberg.org/ebooks/45012
